@@ -1,0 +1,5 @@
+log/
+config.py
+.idea
+venv
+sorev.py
