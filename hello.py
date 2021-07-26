@@ -13,3 +13,7 @@ from bs4 import BeautifulSoup
 #        print("go-go")
 print("hello")
 print("bla-bla")
+for i in range(10):
+    print(i + 1)
+j = 12
+print(j)
