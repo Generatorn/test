@@ -17,3 +17,7 @@ for i in range(10):
     print(i + 1)
 j = 12
 print(j)
+
+
+class Dog:
+    pass
