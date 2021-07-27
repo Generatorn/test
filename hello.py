@@ -19,5 +19,9 @@ j = 12
 print(j)
 
 
-class Dog:
-    pass
+class Rectangle:
+    default_color = "green"
+
+    def __init__(self, width, height):
+        self.width = width
+        self.height = height
