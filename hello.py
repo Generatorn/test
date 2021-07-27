@@ -12,8 +12,7 @@ from bs4 import BeautifulSoup
 #    if text == "Silvana_Prevails":
 #        print("go-go")
 print("hello")
-print("bla-bla")
-for i in range(10):
+for i in range(11):
     print(i + 1)
 j = 12
 print(j)
