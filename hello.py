@@ -11,16 +11,19 @@ from bs4 import BeautifulSoup
 #    text = link.get_text()
 #    if text == "Silvana_Prevails":
 #        print("go-go")
+# Вот здесь мы делаем исправление
 print("hello")
 for i in range(11):
     print(i + 1)
 j = 12
 print(j)
+#-------------------
 
-
+# И вот здесь тоже делаем исправление
 class Rectangle:
-    default_color = "green"
+    default_color = "grey"
 
     def __init__(self, width, height):
         self.width = width
         self.height = height
+#-------------------------
