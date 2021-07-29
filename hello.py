@@ -17,13 +17,16 @@ for i in range(11):
     print(i + 1)
 j = 12
 print(j)
-#-------------------
 
-# И вот здесь тоже делаем исправление
+
 class Rectangle:
     default_color = "grey"
 
     def __init__(self, width, height):
         self.width = width
         self.height = height
-#-------------------------
+
+
+#Изменения для 1 коммита
+print("Тут будет расти новая ветка")
+#-------
